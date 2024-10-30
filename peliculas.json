@@ -1,0 +1,129 @@
+{
+  "peliculas": [
+    {
+      "pelicula": "The Shawshank Redemption",
+      "duracion": 142,
+      "puesto": 1
+    },
+    {
+      "pelicula": "The Godfather",
+      "duracion": 175,
+      "puesto": 2
+    },
+    {
+      "pelicula": "The Dark Knight",
+      "duracion": 152,
+      "puesto": 3
+    },
+    {
+      "pelicula": "The Godfather Part II",
+      "duracion": 202,
+      "puesto": 4
+    },
+    {
+      "pelicula": "12 Angry Men",
+      "duracion": 96,
+      "puesto": 5
+    },
+    {
+      "pelicula": "The Lord of the Rings",
+      "duracion": 201,
+      "puesto": 6
+    },
+    {
+      "pelicula": "Schindler's List",
+      "duracion": 195,
+      "puesto": 7
+    },
+    {
+      "pelicula": "Pulp Fiction",
+      "duracion": 154,
+      "puesto": 8
+    },
+    {
+      "pelicula": "The Lord of the Rings",
+      "duracion": 178,
+      "puesto": 9
+    },
+    {
+      "pelicula": "Il buono",
+      "duracion": 182,
+      "puesto": 10
+    },
+    {
+      "pelicula": "Forrest Gump",
+      "duracion": 142,
+      "puesto": 11
+    },
+    {
+      "pelicula": "The Lord of the Rings",
+      "duracion": 179,
+      "puesto": 12
+    },
+    {
+      "pelicula": "Fight Club",
+      "duracion": 139,
+      "puesto": 13
+    },
+    {
+      "pelicula": "Inception",
+      "duracion": 148,
+      "puesto": 14
+    },
+    {
+      "pelicula": "Star Wars",
+      "duracion": 124,
+      "puesto": 15
+    },
+    {
+      "pelicula": "The Matrix",
+      "duracion": 136,
+      "puesto": 16
+    },
+    {
+      "pelicula": "Goodfellas",
+      "duracion": 145,
+      "puesto": 17
+    },
+    {
+      "pelicula": "One Flew Over the Cuckoo's Nest",
+      "duracion": 133,
+      "puesto": 18
+    },
+    {
+      "pelicula": "Interstellar",
+      "duracion": 169,
+      "puesto": 19
+    },
+    {
+      "pelicula": "Se7en",
+      "duracion": 127,
+      "puesto": 20
+    },
+    {
+      "pelicula": "It's a Wonderful Life",
+      "duracion": 130,
+      "puesto": 21
+    },
+    {
+      "pelicula": "Shichinin no samurai",
+      "duracion": 207,
+      "puesto": 22
+    },
+    {
+      "pelicula": "The Silence of the Lambs",
+      "duracion": 118,
+      "puesto": 23
+    },
+    {
+      "pelicula": "Saving Private Ryan",
+      "duracion": 169,
+      "puesto": 24
+    },
+    {
+      "pelicula": "Cidade de Deus",
+      "duracion": 130,
+      "puesto": 25
+    }
+  ]
+}

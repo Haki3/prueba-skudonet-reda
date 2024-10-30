@@ -1,0 +1,27 @@
+{
+  "name": "prueba-skudonet-reda",
+  "version": "1.0.0",
+  "description": "Script para listar las mejores 25 películas del ranking de IMDB a partir de un archivo CSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haki3/prueba-skudonet-reda.git"
+  },
+  "keywords": [
+    "peliculas"
+  ],
+  "author": "Reda El Haki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haki3/prueba-skudonet-reda/issues"
+  },
+  "homepage": "https://github.com/Haki3/prueba-skudonet-reda#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
