@@ -1,4 +1,4 @@
-# prueba-skudonet-reda
+# Movie Formatter SkudoNet
 ## Script para listar las mejores 25 películas del ranking de IMDB
 
 ### Dependencias
@@ -14,13 +14,13 @@ npm install csv-parser axios fs
 
 ### Consideraciones
 - Asegúrate de tener acceso a internet para descargar el archivo CSV.
-- El script asume que el archivo CSV tiene las columnas `#Duracion`, `Duration`, y `Rank`.
+- El script asume que el archivo CSV tiene las columnas `#Duracion` y `Nombre`.
 - La URL de descarga ha sido modificada para permitir la descarga directa del archivo.
 
 ### Ejecución
 Para ejecutar el script, simplemente corre el siguiente comando en tu terminal:
 ```bash
-node script.js
+node index.js
 ```
 
 ### Salida Esperada
