@@ -14,7 +14,7 @@ const OUTPUT_FILE_PATH = 'peliculas.json';
  * @throws {Error} Si la URL es incorrecta o el archivo no está disponible.
  * @throws {Error} Si ocurre un error al escribir el archivo CSV.
  **/
-async function descargarCSV() {
+async function downloadCSV() {
     console.log('Descargando archivo CSV...');
     try {
         const response = await axios({
@@ -109,7 +109,7 @@ function promptUserToViewFile(result) {
 
 async function main() {
     try {
-        await descargarCSV();
+        await downloadCSV();
         const top25Movies = await parseTopMoviesFromCSV();
         const result = { peliculas: top25Movies };
         saveResultsToFile(result);
